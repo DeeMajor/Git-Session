@@ -23,6 +23,8 @@ Commits are the core building block units of a Git project timeline. Commits can
 
 Git Push
 
+Tristan New feature
+
 The git push command is used to upload local repository content to a remote repository. Pushing is how you transfer commits from your local repository to a remote repo. It's the counterpart to git fetch , but whereas fetching imports commits to local branches, pushing exports commits to remote branches.
 
 Branching
